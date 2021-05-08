@@ -1,0 +1,29 @@
+{
+  "name": "synchronizationawaiterror",
+  "version": "0.0.1",
+  "description": "同步await错误",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel --extensions src/*.ts -o dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erqiu-sj/SynchronizationAwaitError.git"
+  },
+  "keywords": [
+    "await",
+    "promise",
+    "typescript",
+    "axios",
+    "javascript",
+    "async",
+    "then",
+    "catch"
+  ],
+  "author": "hooks_28",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erqiu-sj/SynchronizationAwaitError/issues"
+  },
+  "homepage": "https://github.com/erqiu-sj/SynchronizationAwaitError#readme"
+}
