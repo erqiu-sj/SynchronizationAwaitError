@@ -1,6 +1,6 @@
 {
   "name": "synchronizationawaiterror",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "同步await错误",
   "main": "./src/index.js",
   "scripts": {
