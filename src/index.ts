@@ -1,7 +1,7 @@
 /*
  * @Author: 邱狮杰
  * @Date: 2021-05-08 21:20:19
- * @LastEditTime : 2021-06-15 13:25:41
+ * @LastEditTime : 2021-06-15 13:33:51
  * @FilePath     : /SynchronizationAwaitError/src/index.ts
  * @Description: SynchronizationAwaitError this is awesome!
  */
